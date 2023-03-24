@@ -1,21 +1,21 @@
 {
-    "name": "aula_05",
-    "version": "1.0.0",
-    "description": "Angular e Express: Manipular contatos",
-    "main": "index.js",
-    "scripts": {
-        "preinstall": "npx npm-force-resolutions"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "body-parser": "^1.19.0",
-        "ejs": "^0.8.8",
-        "express": "^4.17.1",
-        "express-load": "^1.1.16",
-        "method-override": "^2.3.10"
-    },
-    "engines": {
-        "node": "12.x"
-    }
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "body-parser": "^1.20.2",
+    "bower": "^1.8.14",
+    "express": "^4.18.2",
+    "express-load": "^1.1.16",
+    "method-override": "^3.0.0",
+    "node-fetch": "^3.2.6"
+  }
 }
